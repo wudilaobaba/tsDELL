@@ -1,0 +1,11 @@
+js与ts相互转换
+https://www.typescriptlang.org/play?filetype=js#code/DYUwLgBAhhC8ECIAmSEG4BQN4CYDMaQA
+
+
+git.imooc.com 下载视频源码
+
+console.log(5 ** 2); 求5的平方
+
+npm i -g typescript
+
+tsc demo.ts 编译ts为js文件

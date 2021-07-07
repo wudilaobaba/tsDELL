@@ -1,0 +1,14 @@
+ts写爬虫
+
+yarn init //生成package.json文件
+
+tsc --init
+
+yarn add ts-node -D
+yarn add typescript -D
+yarn add superagent -S  //在node中发送ajax请求数据
+
+package.json中添加：
+"scripts": {
+  "dev":"ts-node ./src/crowller.js"
+}
